@@ -1,1 +1,1 @@
-# React + TypeScript + Vite
+# Simple Calculator using React + TypeScript + Vite
